@@ -31,9 +31,7 @@ Implements Dijkstra's and BFS algorithms for path planning in a 2D environment w
     ```bash
     pip install numpy pygame opencv-python
     ```
-
-## How to Run
-Navigate to the project directory and run:
+4. Navigate to the project directory and run:
     ```bash
     python obstacle.py
     ```
