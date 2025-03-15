@@ -33,6 +33,6 @@ Implements Dijkstra's and BFS algorithms for path planning in a 2D environment w
     ```
 4. Navigate to the project directory and run:
     ```bash
-    python obstacle.py
+    python BFS_Dijsktra_Shreya_Kalyanaraman.py
     ```
 
