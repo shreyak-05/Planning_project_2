@@ -21,14 +21,20 @@ Implements Dijkstra's and BFS algorithms for path planning in a 2D environment w
 - OpenCV 
 
 ## Installation
-1. Install Python: [python.org](https://www.python.org/downloads/)
-2. Install dependencies:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/shreyak-05/Planning_project_2.git
+    ```
+2. Install Python: [python.org](https://www.python.org/downloads/)
+3. Install dependencies:
     ```bash
     pip install numpy pygame opencv-python
     ```
 
 ## How to Run
 Navigate to the project directory and run:
+    ```bash
+    python obstacle.py
     ```
-    python BFS_Dijsktra_Shreya_Kalyanaraman.py
-    ```
+
